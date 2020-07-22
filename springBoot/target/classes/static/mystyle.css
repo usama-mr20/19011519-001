@@ -1,0 +1,116 @@
+body{
+  background-image: url("bg.jpg");
+}
+
+
+.box{
+  box-shadow: 0px 0px 12px #000000;
+  border-radius: 25px;
+  position: absolute;
+}
+.text{
+  background-color: teal;
+  color: white;
+  width: 266px;
+  padding: 5px;
+  text-align: center;
+ font-family: cursive;
+  margin-left: 267px;
+  border-radius: 5px;
+  position: absolute;
+}
+
+#mainBox{
+  height:600px;
+  width:1000px;
+  background-color: #12c0db;
+  margin-left: 160px;
+  margin-top: 10px;
+}
+
+#phone1{
+  height:500px;
+  width:290px;
+  background-color: gray;
+  margin-top: 60px;
+  margin-left: 260px;
+}
+
+#phone2{
+  position: absolute;
+  height:420px;
+  width:280px;
+  background-color: white;
+  margin-top: 100px;
+  margin-left: 265px;
+  border-radius: 5px;
+}
+#speaker{
+  position: absolute;
+  height:8px;
+  width:60px;
+  background-color: black;
+  margin-top: 80px;
+  margin-left: 370px;
+  border-radius: 45px;
+}
+#mic{
+  position: absolute;
+  height:8px;
+  width:8px;
+  background-color: black;
+  margin-top: 80px;
+  margin-left: 450px;
+  border-radius: 45px;
+}
+#T1{
+  margin-top: 102px;
+  font-family: sans-serif;
+}
+#T2{
+  margin-top: 300px;
+}
+#T3{
+    margin-top: 340px;
+}
+#T4{
+  margin-top: 380px;
+}
+#T5{
+  margin-top: 420px;
+}
+#T6{
+  margin-top: 460px;
+}
+
+#T7{
+  color: white;
+  width: 1000px;
+  margin-left: 595px;
+  position: absolute;
+  font-size: 25px;
+  font-family: monospace;
+  margin-top: 100px;
+}
+#T8{
+  color: white;
+  width: 1000px;
+  margin-left: 595px;
+  position: absolute;
+  font-size: 25px;
+  font-family: monospace;
+  margin-top: 150px;
+}
+#rightText{
+  border: 2px solid black;
+  position: absolute;
+}
+#image{
+  height: 130px;
+  width: 130px;
+  border: 5px solid teal;
+  margin-top: 145px;
+  margin-left: 340px;
+  position: absolute;
+  border-radius: 100px;
+}
