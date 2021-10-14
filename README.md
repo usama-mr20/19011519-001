@@ -1,5 +1,5 @@
-# CS-19011519-001-Mr.20
-I am beginner in web dev and I have stated 100DaysOfCode journey as web dev on twitter
-regularly pushing HTML and CSS codes 
+JAVA projects for begineers
 
-Remaining are the projects and practice programs written in java as shown in folders..
+projects and practice programs written in java.
+
+Begineers can find these programs helpful in getting most important programming concepts.
